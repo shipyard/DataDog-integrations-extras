@@ -13,8 +13,8 @@
     "media": [
       {
         "media_type": "image",
-        "caption": "Shipyard logo in teal",
-        "image_url": "images/shipyard-teal.png"
+        "caption": "Shipyard logo",
+        "image_url": "images/shipyard.svg"
       }
     ],
     "classifier_tags": [
