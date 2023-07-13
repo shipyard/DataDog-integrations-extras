@@ -1,8 +1,7 @@
 # CHANGELOG - React Native
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial React Native RUM Integration Tile.
-
+* [FEATURE] Initial React Native RUM Integration Tile.

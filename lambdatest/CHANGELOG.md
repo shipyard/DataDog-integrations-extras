@@ -1,7 +1,7 @@
 # CHANGELOG - lambdatest Integration
 
-## 1.0.0 / Unreleased
+1.0.0 / Unreleased
+==================
+### Changes
 
-***Added***: 
-
-* Initial LambdaTest Integration Tile.
+* [FEATURE] Initial LambdaTest Integration Tile.

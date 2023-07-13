@@ -1,7 +1,7 @@
 # CHANGELOG - Cortex Integration
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial Cortex Integration Tile.
+* [FEATURE] Initial Cortex Integration Tile.

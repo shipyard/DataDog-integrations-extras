@@ -1,8 +1,7 @@
 # CHANGELOG - Convox
 
-## 1.0.0 / Unreleased
+1.0.0 / Unreleased
+==================
+### Changes
 
-***Added***: 
-
-* Initial Convox tile.
-
+* [FEATURE] Initial Convox tile.

@@ -1,8 +1,7 @@
 # CHANGELOG - Android
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial Android RUM Integration Tile.
-
+* [FEATURE] Initial Android RUM Integration Tile.

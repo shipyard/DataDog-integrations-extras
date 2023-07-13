@@ -1,8 +1,7 @@
 # CHANGELOG - JavaScript
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial JavaScript RUM Integration Tile.
-
+* [FEATURE] Initial JavaScript RUM Integration Tile.

@@ -2,7 +2,6 @@
 
 ## 1.0.0
 
-***Added***: 
+### Changes
 
-* adds Embrace Mobile integration.
-
+* [FEATURE] adds Embrace Mobile integration.

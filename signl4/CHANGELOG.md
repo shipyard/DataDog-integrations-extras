@@ -1,8 +1,7 @@
 # CHANGELOG - SIGNL4 Integration
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial SIGNL4 Webhook Integration.
-
+* [FEATURE] Initial SIGNL4 Webhook Integration.

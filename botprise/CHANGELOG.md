@@ -1,7 +1,8 @@
 # CHANGELOG - Botprise Integration
 
-## 1.0.0 / 2020-08-06
+1.0.0 / Initial Setup instructions
+==================
+### Changes
 
-***Added***: 
+* [FEATURE] Initial Botprise Integration Tile.
 
-* Initial Botprise Integration Tile.

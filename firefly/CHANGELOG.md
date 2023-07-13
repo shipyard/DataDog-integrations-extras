@@ -2,6 +2,6 @@
 
 ## 1.0.0 / 2022-07-15
 
-***Added***: 
+### Changes
 
-* Initial release - Firefly Datadog Integration
+* [FEATURE] Initial release - Firefly Datadog Integration

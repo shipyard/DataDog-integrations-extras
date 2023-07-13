@@ -1,13 +1,14 @@
 # CHANGELOG - Nomad
 
-## 1.0.1
+1.0.1
+==================
+### Changes
 
-***Fixed***: 
+* [FIX] fix the metadata.csv file to match supported `metric_type` names.
 
-* fix the metadata.csv file to match supported `metric_type` names.
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial VNS3 tile.
+* [FEATURE] Initial VNS3 tile.

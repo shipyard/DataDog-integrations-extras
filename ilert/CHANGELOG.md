@@ -1,8 +1,7 @@
 # CHANGELOG - iLert Integration
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial iLert Integration Tile.
-
+* [FEATURE] Initial iLert Integration Tile.

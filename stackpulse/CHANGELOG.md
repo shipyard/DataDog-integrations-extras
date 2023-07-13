@@ -1,7 +1,9 @@
 # CHANGELOG - Datadog-StackPulse Integration
 
-## 1.0.0
+1.0.0
 
-***Added***: 
+==================
 
-* Initial Datadog-StackPulse Integration Tile.
+## Changes
+
+* [FEATURE] Initial Datadog-StackPulse Integration Tile.

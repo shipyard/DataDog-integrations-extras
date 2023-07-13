@@ -2,7 +2,4 @@
 
 ## 1.0.0 / 2022-12-08
 
-***Added***: 
-
-* Initial F5XC Integration Tile.
-
+* [FEATURE] Initial F5XC Integration Tile.

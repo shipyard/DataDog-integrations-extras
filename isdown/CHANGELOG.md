@@ -2,7 +2,4 @@
 
 ## 1.0.0 / 2023-02-21
 
-***Added***: 
-
-* Initial IsDown Integration
-
+* [FEATURE] Initial IsDown Integration

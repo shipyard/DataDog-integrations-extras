@@ -1,8 +1,7 @@
 # CHANGELOG - React
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial React RUM Integration Tile.
-
+* [FEATURE] Initial React RUM Integration Tile.

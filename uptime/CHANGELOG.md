@@ -1,7 +1,8 @@
 # CHANGELOG - Uptime.com
 
-## 1.0.0 / Unreleased
 
-***Added***: 
+1.0.0 / Unreleased
+==================
+### Changes
 
-* Initial Uptime.com tile.
+* [FEATURE] Initial Uptime.com tile.

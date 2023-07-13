@@ -1,7 +1,5 @@
 # 1.0.0 / 2022-08-25
 
+### Changes
 
-***Added***: 
-
-* Initial unitQ Integration Tile.
-
+- [FEATURE] Initial unitQ Integration Tile.

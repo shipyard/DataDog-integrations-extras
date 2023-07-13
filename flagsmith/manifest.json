@@ -12,18 +12,17 @@
     "title": "Flagsmith",
     "media": [],
     "classifier_tags": [
+      "Category::Configuration & Deployment",
+      "Category::Notification",
+      "Category::Testing",
       "Supported OS::Linux",
-      "Supported OS::macOS",
       "Supported OS::Windows",
-      "Category::Issue Tracking",
-      "Category::Developer Tools",
-      "Offering::UI Extension",
-      "Offering::Integration"
+      "Supported OS::macOS"
     ]
   },
   "author": {
     "support_email": "support@flagsmith.com",
-    "homepage": "https://flagsmith.com/",
+    "homepage": "https://github.com/DataDog/integrations-extras",
     "sales_email": "support@flagsmith.com",
     "name": "Flagsmith"
   },

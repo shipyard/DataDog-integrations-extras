@@ -1,8 +1,7 @@
 # CHANGELOG - Cypress
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial Cypress RUM Integration Tile.
-
+* [FEATURE] Initial Cypress RUM Integration Tile.

@@ -1,8 +1,7 @@
 # CHANGELOG - Logz.io
 
-## 1.0.0 / Unreleased
+1.0.0 / Unreleased
+==================
+### Changes
 
-***Added***: 
-
-* Initial Logz.io tile.
-
+* [FEATURE] Initial Logz.io tile.

@@ -1,8 +1,7 @@
 # CHANGELOG - Blue Matador Integration
 
-## 1.0.0
+1.0.0
+==================
+### Changes
 
-***Added***: 
-
-* Initial Blue Matador Integration Tile.
-
+* [FEATURE] Initial Blue Matador Integration Tile.
